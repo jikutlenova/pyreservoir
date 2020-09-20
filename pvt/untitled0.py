@@ -6,7 +6,7 @@ Created on Sun Sep 20 11:20:57 2020
 """
 
 import os
-os.chdir("/Users/priyank.srivastava/Desktop/PEG-Python/PVT")
+os.chdir("/Desktop/PEG-Python/PVT")
 import numpy as np
 from pvt_gas import *
 
